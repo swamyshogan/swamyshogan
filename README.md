@@ -16,7 +16,7 @@
 
 🖥️ **Data-Driven Passion:**  
 - Merging computational tools with cutting-edge biotech research to decode genomic mysteries  
-- Exploring **AI/ML in spatial omics** to improve drug discovery 🚀  
+- Exploring **AI/ML** to improve drug discovery 🚀  
 
 ---
 
@@ -32,25 +32,8 @@
 
 💻 **Languages:** Python 🐍 | R 📊 | Bash  
 📚 **Skills:** Machine Learning | Data Visualization | Statistical Analysis  
-🧬 **Biotech:** Genomic Data Analysis | Spatial Omics | RT-PCR  
+🧬 **Biotech:** Genomic Data Analysis | Transcriptomics | RT-PCR  
 
----
-
-## 🌟 Current Projects  
-
-1. **Spatial Omics Analysis:** AI-driven insights into tissue architecture 🧠  
-2. **Hackathons & Co-op Panels:** Bridging biotech and industry connections 🔗  
-3. **Journal Clubs:** Discussing breakthroughs in biotech & AI research 📖  
-
----
-
-## 🤝 Let’s Connect!  
-
-🌐 **LinkedIn:** [linkedin.com/in/your-profile](#)  
-📫 **Email:** your-email@example.com  
-📂 **Portfolio:** [your-portfolio-link.com](#)  
-
----
 
 ⚡ *“Where biology meets bytes, and science meets storytelling.”*  
 Feel free to explore my repositories and reach out to chat about genomics, data science, or the latest biotech breakthroughs!  
