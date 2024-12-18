@@ -59,7 +59,3 @@ I’m **Shogan**, a Biotech enthusiast turned Data Science professional, combini
 
 *“Where biology meets technology, and data tells the story of life.”*  
 Feel free to explore my repositories and reach out to discuss genomics, data science, or recent developments in biotech! 🌱
-
----
-
-Let me know if you'd like any further changes!
