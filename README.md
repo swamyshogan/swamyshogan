@@ -1,4 +1,4 @@
-# Shogan's Biotech & Data Science Hub
+# Shogan's Bioinformatics Hub
 
 **Welcome!**  
 I’m **Shogan**, a Biotech enthusiast turned Data Science professional, combining genomics 🧬, bioinformatics 💻, and artificial intelligence 🤖 to extract valuable insights from complex biological data.
