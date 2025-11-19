@@ -1,7 +1,7 @@
 # Shogan's Bioinformatics Hub
 
 **Welcome!**  
-I’m **Shogan**, a Bioinfo enthusiast turned Data Science professional, combining genomics 🧬, bioinformatics 💻, and artificial intelligence 🤖 to extract valuable insights from complex biological data.
+I’m **Shogan**, a biotech enthusiast turned Bioinformatics professional, combining genomics 🧬, bioinformatics 💻, and artificial intelligence 🤖 to extract valuable insights from complex biological data.
 
 ---
 
