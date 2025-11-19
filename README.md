@@ -1,15 +1,16 @@
 # Shogan's Bioinformatics Hub
 
 **Welcome!**  
-I’m **Shogan**, a Biotech enthusiast turned Data Science professional, combining genomics 🧬, bioinformatics 💻, and artificial intelligence 🤖 to extract valuable insights from complex biological data.
+I’m **Shogan**, a Bioinfo enthusiast turned Data Science professional, combining genomics 🧬, bioinformatics 💻, and artificial intelligence 🤖 to extract valuable insights from complex biological data.
 
 ---
 
 ## About Me  
 
 **Grad Student @ Northeastern University**  
-- Events Coordinator for the **Graduate Biotech-Bioinfo Association (GBBA)**  
+- President for the **Graduate Biotech-Bioinfo Association (GBBA)**  
 - Global Student Mentor with the **Office of Global Services** 🌍  
+- NextFlow Ambassador
 
 **Biotech Background:**  
 - Led **RT-PCR batch processing** for COVID-19 testing as an **Assistant Lab Technician** 🦠  
