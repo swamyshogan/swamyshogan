@@ -1,32 +1,41 @@
 # Shogan's Bioinformatics Hub
 
-**Welcome!**  
-I’m **Shogan**, a biotech enthusiast turned Bioinformatics professional, combining genomics 🧬, bioinformatics 💻, and artificial intelligence 🤖 to extract valuable insights from complex biological data.
+Welcome! I'm Shogan, a biotech enthusiast turned bioinformatics professional, blending genomics 🧬, bioinformatics 💻, and AI 🤖 to pull real insights from complex biological data.
 
 ---
 
-## About Me  
+## About Me
 
-**Grad Student @ Northeastern University**  
-- President for the **Graduate Biotech-Bioinfo Association (GBBA)**  
-- Global Student Mentor with the **Office of Global Services** 🌍  
-- NextFlow Ambassador
+**Grad Student @ Northeastern University**
 
-**Biotech Background:**  
-- Led **RT-PCR batch processing** for COVID-19 testing as an **Assistant Lab Technician** 🦠  
-- Contributed as a **Technical Writer** for scientific publications 📑  
-
-**Data-Driven Passion:**  
-- Integrating computational tools with biotech research to advance genomic understanding  
-- Exploring **AI/ML** to optimize drug discovery and disease modeling 🚀  
+- President, Graduate Biotech-Bioinfo Association (GBBA)
+- Global Student Mentor, Office of Global Services 🌍
+- Nextflow Ambassador
 
 ---
 
-## What I Do  
+## What I've Done
 
-- **Bioinformatics & Data Analysis:** Extracting patterns from biological datasets  
-- **AI/ML in Genomics:** Developing models to elucidate disease mechanisms  
-- **Lifelong Learner:** Continuously exploring new tools, techniques, and frameworks 📚  
+- Led RT-PCR batch processing for COVID-19 testing as an Assistant Lab Technician 🦠
+- Contributed as a Technical Writer for peer-reviewed scientific publications 📑
+- Built computational pipelines connecting biotech research to genomic insight
+- Explored AI/ML applications in drug discovery and disease modeling 🚀
+
+---
+
+## Current Work
+
+**Co-op @ Dana-Farber / Boston Children's Hospital Cancer Center**
+
+Working on FLT3-targeted CAR-T therapy and epitope engineering — check out a live demo of one of the tools I built: [Click here](https://swamyshogan.github.io/bioengineering-webtool/)
+
+---
+
+## What I Do
+
+- **Bioinformatics & Data Analysis:** Extracting meaningful patterns from biological datasets
+- **AI/ML in Genomics:** Developing models to understand disease mechanisms
+- **Lifelong Learner:** Always picking up new tools, techniques, and frameworks 📚
 
 ---
 
