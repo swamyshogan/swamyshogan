@@ -2,8 +2,6 @@
 
 Hello! I'm Shogan, a biotech enthusiast turned bioinformatics professional, blending genomics 🧬, bioinformatics 💻, and AI 🤖 to pull real insights from complex biological data. 
 
----
-
 ## What I've Done
 
 - Led RT-PCR batch processing for COVID-19 testing as an Assistant Lab Technician 🦠
@@ -11,15 +9,12 @@ Hello! I'm Shogan, a biotech enthusiast turned bioinformatics professional, blen
 - Built computational pipelines connecting biotech research to genomic insight
 - Explored AI/ML applications in drug discovery and disease modeling 🚀
 
----
-
 ## Current Work
 
 **Reasearch Assistant II @ Dana-Farber / Boston Children's Hospital Cancer Center**
 
 Working on CAR-T therapy and epitope engineering platform. Try a live demo of one of the tools I built: [bioengineering webtool](https://swamyshogan.github.io/bioengineering-webtool/)
 
----
 
 ## Tools I've Built
 
@@ -53,16 +48,6 @@ Working on CAR-T therapy and epitope engineering platform. Try a live demo of on
     </td>
   </tr>
 </table>
-
----
-
-## What I Do
-
-- **Bioinformatics & Data Analysis:** Extracting meaningful patterns from biological datasets
-- **AI/ML in Genomics:** Developing models to understand disease mechanisms
-- **Lifelong Learner:** Always picking up new tools, techniques, and frameworks 📚
-
----
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
