@@ -1,16 +1,6 @@
 # Shogan's Bioinformatics Hub
 
-Welcome! I'm Shogan, a biotech enthusiast turned bioinformatics professional, blending genomics 🧬, bioinformatics 💻, and AI 🤖 to pull real insights from complex biological data.
-
----
-
-## About Me
-
-**Grad Student @ Northeastern University**
-
-- President, Graduate Biotech-Bioinfo Association (GBBA)
-- Global Student Mentor, Office of Global Services 🌍
-- Nextflow Ambassador
+Hello! I'm Shogan, a biotech enthusiast turned bioinformatics professional, blending genomics 🧬, bioinformatics 💻, and AI 🤖 to pull real insights from complex biological data. 
 
 ---
 
@@ -25,9 +15,44 @@ Welcome! I'm Shogan, a biotech enthusiast turned bioinformatics professional, bl
 
 ## Current Work
 
-**Co-op @ Dana-Farber / Boston Children's Hospital Cancer Center**
+**Reasearch Assistant II @ Dana-Farber / Boston Children's Hospital Cancer Center**
 
-Working on FLT3-targeted CAR-T therapy and epitope engineering — check out a live demo of one of the tools I built: [Click here](https://swamyshogan.github.io/bioengineering-webtool/)
+Working on CAR-T therapy and epitope engineering platform. Try a live demo of one of the tools I built: [bioengineering webtool](https://swamyshogan.github.io/bioengineering-webtool/)
+
+---
+
+## Tools I've Built
+
+<table>
+  <!-- Newest on top. To add a tool, copy one <tr>...</tr> block and paste it here -->
+  <tr>
+    <td width="220" align="center">
+      <a href="https://github.com/swamyshogan/molstar-lab"><b>🧪 molstar-lab</b></a><br>
+      <sub>Python · Mol*</sub>
+    </td>
+    <td>
+      <code>jupyter lab</code>, but for the Mol* structure viewer. Run <code>molstar</code> in any folder and Mol* opens in your browser with a file browser for everything under it.
+    </td>
+  </tr>
+  <tr>
+    <td width="220" align="center">
+      <a href="https://github.com/swamyshogan/bioinfoBook"><b>📖 bioinfoBook</b></a><br>
+      <sub>Python · CLI</sub>
+    </td>
+    <td>
+      Bioinformatics cheat sheets in your terminal: animated, searchable and community-written. Type a few letters, fill in the blanks, and the command lands on your clipboard.
+    </td>
+  </tr>
+  <tr>
+    <td width="220" align="center">
+      <a href="https://github.com/swamyshogan/Bioinformatics-Badges"><b>🏷️ Bioinformatics Badges</b></a><br>
+      <sub>Markdown · shields.io</sub>
+    </td>
+    <td>
+      Ready-to-paste shields.io badges for bioinformatics tools, databases and workflows (Biopython, Bioconductor, GenBank and more), so you can show your bioinfo stack on GitHub. Open to contributions.
+    </td>
+  </tr>
+</table>
 
 ---
 
