@@ -1,13 +1,13 @@
 # Shogan's Bioinformatics Hub
 
-Hello! I'm Shogan, a biotech enthusiast turned bioinformatics professional, blending genomics 🧬, bioinformatics 💻, and AI 🤖 to pull real insights from complex biological data. 
+Hello! I'm Shogan, a biotech enthusiast turned bioinformatics professional, blending genomics, bioinformatics, and AI to pull real insights from complex biological data. 
 
 ## What I've Done
 
-- Led RT-PCR batch processing for COVID-19 testing as an Assistant Lab Technician 🦠
-- Contributed as a Technical Writer for peer-reviewed scientific publications 📑
+- Led RT-PCR batch processing for COVID-19 testing as an Assistant Lab Technician 
+- Contributed as a Technical Writer for peer-reviewed scientific publications 
 - Built computational pipelines connecting biotech research to genomic insight
-- Explored AI/ML applications in drug discovery and disease modeling 🚀
+- Explored AI/ML applications in drug discovery and disease modeling 
 
 ## Current Work
 
@@ -22,11 +22,11 @@ Working on CAR-T therapy and epitope engineering platform. Try a live demo of on
   <!-- Newest on top. To add a tool, copy one <tr>...</tr> block and paste it here -->
   <tr>
     <td width="220" align="center">
-      <a href="https://github.com/swamyshogan/molstar-lab"><b>🧪 molstar-lab</b></a><br>
+      <a href="https://github.com/swamyshogan/bioinfofinder"><b>🧪 bioinfoFinder</b></a><br>
       <sub>Python · Mol*</sub>
     </td>
     <td>
-      <code>jupyter lab</code>, but for the Mol* structure viewer. Run <code>molstar</code> in any folder and Mol* opens in your browser with a file browser for everything under it.
+      <code>jupyter lab</code>, but for the Mol* structure viewer. Run <code>bioinfofinder</code> in any folder and Mol* opens in your browser with a file browser for everything under it.
     </td>
   </tr>
   <tr>
@@ -49,6 +49,9 @@ Working on CAR-T therapy and epitope engineering platform. Try a live demo of on
   </tr>
 </table>
 
+---
+*“Where biology meets technology, and data tells the story of life.”*  
+Feel free to explore my repositories and reach out to discuss genomics, data science, or recent developments in biotech! 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -79,5 +82,3 @@ Working on CAR-T therapy and epitope engineering platform. Try a live demo of on
 ![Pubmed](https://img.shields.io/badge/PubMed-326599.svg?style=for-the-badge&logo=PubMed&logoColor=white)
 
 
-*“Where biology meets technology, and data tells the story of life.”*  
-Feel free to explore my repositories and reach out to discuss genomics, data science, or recent developments in biotech! 🌱
